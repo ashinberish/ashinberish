@@ -5,16 +5,16 @@
 
 - 🔭 &nbsp; I’m currently learning Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security.
+- 🎓 &nbsp; Studying Computer Science.
+- 💼 &nbsp; Front-end web developer.
+- 🌱 &nbsp; Enthusiast in Cyber Security.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; Firebase | Xampp
+- 🛢 &nbsp; Firebase | Xampp | Linux
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
