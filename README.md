@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++  
+- 💻 &nbsp; Python | C programming  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; Firebase | Xampp | Linux
 - 🔧 &nbsp; Visual Studio code | Git
